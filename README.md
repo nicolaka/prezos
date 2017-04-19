@@ -1,2 +1,0 @@
-# prezos
-my presentation content
