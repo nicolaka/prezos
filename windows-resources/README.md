@@ -36,6 +36,7 @@
 * [Guide: Enabling integrated Windows Authentication in Windows Docker container](https://artisticcheese.wordpress.com/2017/09/09/enabling-integrated-windows-authentication-in-windows-docker-container/)
 * [Microsoft Guide: Active Directory Service Accounts for Windows Containers](https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/manage-serviceaccounts)
 * [Microsoft Guide: End to End to Windows Authentications in Docker](https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/live/windows-server-container-tools/ServiceAccounts)
+* [Recorded Demo for setting up gMSA for Windows Containers](https://www.youtube.com/watch?v=cZHPz80I-3s&feature=youtu.be&t=2672)
 
 
 ## Storage
